@@ -24,6 +24,8 @@ By the end of this project :
 
 Project Demo >> https://drive.google.com/file/d/18Zi0HKGUv4ARKDisInYIVIDPDtZnuLCm/view?usp=share_link
 
+Project Report >> [IBM-3770-1662126909 Project Report (1).pdf](https://github.com/IBM-EPBL/IBM-Project-3770-1658599000/files/10047439/IBM-3770-1662126909.Project.Report.1.pdf)
+
 
 https://user-images.githubusercontent.com/62366905/202839625-60dbea5c-c76b-408a-8505-e677534a832e.mp4
 
