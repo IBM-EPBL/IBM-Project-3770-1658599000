@@ -1,6 +1,6 @@
-Web Phishing Detection  ![image](https://user-images.githubusercontent.com/101821732/202836955-71760746-b8bb-4ced-a81a-8a7fa3aacb1d.png)
+#IBM-Project-3770-1658599000
 
-IBM-Project-3770-1658599000
+Web Phishing Detection
 
 Batch Name : B6-6M2E
 
