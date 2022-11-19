@@ -21,3 +21,9 @@ By the end of this project :
 •	Applying different algorithms according to the dataset.                     
 •	We will be able to know how to find the accuracy of the model.                                  
 •	We will be able to build web applications using the Flask framework.
+
+Project Demo >> 
+
+
+https://user-images.githubusercontent.com/62366905/202839625-60dbea5c-c76b-408a-8505-e677534a832e.mp4
+
