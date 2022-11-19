@@ -22,7 +22,7 @@ By the end of this project :
 •	We will be able to know how to find the accuracy of the model.                                  
 •	We will be able to build web applications using the Flask framework.
 
-Project Demo >> 
+Project Demo >> https://drive.google.com/file/d/18Zi0HKGUv4ARKDisInYIVIDPDtZnuLCm/view?usp=share_link
 
 
 https://user-images.githubusercontent.com/62366905/202839625-60dbea5c-c76b-408a-8505-e677534a832e.mp4
